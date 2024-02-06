@@ -1,6 +1,25 @@
-# ishita
+BMI CALCULATOR
 
-A new Flutter project.
+A BMI calculator to know about your health just with the help of your current body weight and height anywhere
+
+
+
+![ANDROID_IMAGE - Copy](https://github.com/IshitaSuchdeva/BMI-Calculator-App/assets/91798812/fc722235-4e55-4257-b0d2-9e2ff576cdc0)
+
+
+
+
+![image](https://github.com/IshitaSuchdeva/BMI-Calculator-App/assets/91798812/804b4c44-b1e4-41fb-aeae-d15e3f681282)
+
+
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
